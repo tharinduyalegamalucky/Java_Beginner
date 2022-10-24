@@ -1,0 +1,14 @@
+\\ method
+
+public class first
+{
+		
+	makeTea()
+   	{
+		\\statement
+		boil water;
+		put tea and sugar;
+		make tea;
+	}
+
+}
