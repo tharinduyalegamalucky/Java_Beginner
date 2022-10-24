@@ -1,0 +1,19 @@
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+
+        int maths = 55;
+        int sin = 75;
+        
+        if(maths > 50){
+        System.out.println("pass");
+    }else{
+        System.out.println("fail");
+        }
+    }
+    
+}
