@@ -1,0 +1,105 @@
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+        int num = 5;
+        
+        if(num == 10){
+            System.out.println("yes");
+        }else{
+            System.out.println("No");
+        }
+    }
+    
+}
+
+************************************
+
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+        int num = 5;
+        
+        if(num < 10){
+            System.out.println("yes");
+        }else{
+            System.out.println("No");
+        }
+    }
+    
+}
+
+
+***************************************
+
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+        int num = 5;
+        
+        if(num > 10){
+            System.out.println("yes");
+        }else{
+            System.out.println("No");
+        }
+    }
+    
+}
+
+***************************************************
+
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+        int num = 5;
+        
+        if(num <= 10){
+            System.out.println("yes");
+        }else{
+            System.out.println("No");
+        }
+    }
+    
+}
+*********************************************************
+
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+        int num = 5;
+        
+        if(num != 10){
+            System.out.println("yes");
+        }else{
+            System.out.println("No");
+        }
+    }
+    
+}
+
+
+\\ Less than: a < b
+\\ Less than or equal to: a <= b
+\\ Greater than: a > b
+\\ Greater than or equal to: a >= b
+\\ Equal to a == b
+\\ Not Equal to: a != b
