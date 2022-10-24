@@ -7,3 +7,14 @@ public class first
 	System.out.println(number);
 }
 }
+
+***************************************************
+
+public class first
+{
+	public static void main(String args[])
+{
+	int age = 18;
+	System.out.println("Your age is "+ age);
+}
+}
