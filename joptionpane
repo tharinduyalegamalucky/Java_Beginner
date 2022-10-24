@@ -1,0 +1,14 @@
+import javax.swing.JOptionPane;
+
+public class first
+{
+
+	public static void main(String args[])
+	{
+		String name = JOptionPane.showInputDialog("Hii,What's Your name?");
+		
+		JOptionPane.showMessageDialog(null,"I LOVE YOU " +name);
+		
+	}
+
+}
