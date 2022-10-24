@@ -18,3 +18,18 @@ public class first
 	System.out.println("Your age is "+ age);
 }
 }
+
+
+*******************************************************
+
+class first
+{
+	public static void main(String args[])
+{
+	float num;
+	
+	num = 3.34;
+
+	System.out.println("My number = "+ num); 
+}
+}
