@@ -1,0 +1,43 @@
+
+package tharindu;
+
+public class Tharindu {
+
+    
+    public static void main(String[] args) {
+        jambu jambuObj = new jambu("Tharindu");
+        jambu jambuObj2 = new jambu("Dyan");
+        
+        jambuObj.say();
+        jambuObj2.say();
+    }
+        
+}
+  
+*********************************************************************
+
+
+
+package tharindu;
+
+public class jambu {
+    
+    private String friendName;
+    
+    
+    public jambu(String name){
+        friendName = name;
+    }
+    
+//    public void getName(String name){
+//        friendName = name;
+//    }
+    public String setName() {
+        return friendName;
+    }
+    
+    public void say(){
+        System.out.println("your friend name is " + setName());
+    }
+}
+
