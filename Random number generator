@@ -1,0 +1,18 @@
+package javaapplication15;
+import java.util.Random;
+
+public class JavaApplication15 {
+
+  
+    public static void main(String[] args) {
+        Random rnd = new Random();
+        int num;
+        
+        for(int i=0; i<10; i++){
+            
+            num = 1+rnd.nextInt(10);
+            System.out.println(num);
+        }
+        
+    }  
+}
