@@ -1,0 +1,14 @@
+package javaapplication15;
+
+public class JavaApplication15 {
+
+  
+    public static void main(String[] args) {
+       
+        int num = 15;
+        
+        System.out.println(num < 30 ? "you are young" : "you are old");
+    }  
+    
+}
+
